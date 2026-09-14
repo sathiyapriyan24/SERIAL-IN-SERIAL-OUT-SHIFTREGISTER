@@ -48,15 +48,15 @@ end
 endmodule
 ```
 Developed by: RegisterNumber:sathiya priyan G 212225100048
-<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/344e29c1-85ae-4b21-b7c4-f58e9add452a" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-13 at 23 51 15" src="https://github.com/user-attachments/assets/59d2e98d-b175-4417-b3fb-ce6bb26f3f02" />
 
 */
 
 **RTL LOGIC FOR SISO Shift Register**
-<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/3377a302-3d83-4706-896f-8b1dc26142f7" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-13 at 23 51 26" src="https://github.com/user-attachments/assets/4b7cfdf9-bd72-4438-89ec-70b66fcb6f62" />
 
 **TIMING DIGRAMS FOR SISO Shift Register**
-<img width="1600" height="902" alt="image" src="https://github.com/user-attachments/assets/731939c7-5203-4ccd-b5b9-e99480618c02" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-13 at 23 51 39" src="https://github.com/user-attachments/assets/53d3bebe-9b2d-40dd-8d5c-1de2029c77dd" />
 
 **RESULTS**
 The 4-bit SISO (Serial-In Serial-Out) shift register was successfully implemented using Verilog in Quartus Prime. The functionality was validated using the truth table. The shift register correctly shifted the input data one bit at a time through the flip-flops on each clock pulse. The outputs q0, q1, q2, and q3 were observed to propagate the input data as expected, confirming the correct operation of the shift register.****
